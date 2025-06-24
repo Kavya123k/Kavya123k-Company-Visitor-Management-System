@@ -85,7 +85,7 @@ This project is licensed under the MIT License — feel free to use and adapt it
 Would you like a README that includes badges (like GitHub stars, license, last commit, etc.) or want this formatted specifically for PHP, Java, or Node.js backend?
 
 
-[![View Output](https://img.shields.io/badge/🚀%20Live-Demo-blue?style=for-the-badge)](http://localhost/cvms/cvms/)
+[![View Output](http://localhost/cvms/cvms/)]
 
 
 
